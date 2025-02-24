@@ -6,7 +6,9 @@ Supplementary material for "Digitized Counterdiabatic Quantum Optimization Algor
 
 
 ## Requirments
-
+mindquantum                        0.9.11
+mindspore                          2.4.0
+qiskit                             1.2.4
 
 ## References
 <a id="1">[1]</a> 
