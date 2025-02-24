@@ -8,3 +8,9 @@ Supplementary material for "Digitized Counterdiabatic Quantum Optimization Algor
 ## Requirments
 
 
+## References
+<a id="1">[1]</a> 
+Ruoqian Xu, Sebastián V. Romero, Jialiang Tang, Yue Ban, Xi Chen (2025). 
+Digitized Counter-Diabatic Quantum Optimization for Bin Packing Problem. 
+arXiv:2502.15375.
+
